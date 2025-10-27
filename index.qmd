@@ -1,0 +1,18 @@
+---
+title: "Lab S3"
+author: "Bismark Minnah"
+format:
+  html:
+    toc: true
+    toc-title: Content
+    toc_float: true
+    embed-resources: true
+---
+
+## About Me
+
+Hi this Bismark, just trying to link Github to R studios
+
+[Lab7](https://ood.unity.rc.umass.edu/rnode/gpu050.unity.rc.umass.edu/4035/files/Lab%207%20:%20Data%20Tidying,%20Transformation%20and%20Visualization%20with%20COVID-19%20reporting%20data.html)
+
+![Image](images/Halloween.png)
