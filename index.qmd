@@ -11,8 +11,12 @@ format:
 
 ## About Me
 
-Hi this Bismark, just trying to link Github to R studios
+Hi this is Bismark, just trying to link GitHub to R Studio
+
+## Link to Lab 7
 
 [Lab7](https://ood.unity.rc.umass.edu/rnode/gpu050.unity.rc.umass.edu/4035/files/Lab%207%20:%20Data%20Tidying,%20Transformation%20and%20Visualization%20with%20COVID-19%20reporting%20data.html)
+
+## Image
 
 ![Image](images/Halloween.png)
